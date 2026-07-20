@@ -1,0 +1,5 @@
+anomaly_type,n,caught,recall
+amount_spike,18,14,0.78
+duplicate,26,14,0.54
+frequency_burst,102,102,1.0
+wrong_category,14,10,0.71

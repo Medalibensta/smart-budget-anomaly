@@ -1,0 +1,13 @@
+,precision,recall,f1-score,support
+Groceries,1.0,1.0,1.0,408.0
+Health,1.0,1.0,1.0,63.0
+Housing,1.0,1.0,1.0,36.0
+Insurance,1.0,1.0,1.0,36.0
+Leisure,1.0,1.0,1.0,202.0
+Restaurants,1.0,1.0,1.0,290.0
+Shopping,1.0,1.0,1.0,122.0
+Transport,1.0,1.0,1.0,247.0
+Utilities,1.0,1.0,1.0,72.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,1476.0
+weighted avg,1.0,1.0,1.0,1476.0

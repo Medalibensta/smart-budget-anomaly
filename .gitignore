@@ -1,0 +1,18 @@
+# Data is synthetic and fully regenerable via `python src/generate.py`.
+# The raw CSV (~1 MB) is small enough to keep the repo self-contained; the
+# scored/processed copies are regenerated.
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

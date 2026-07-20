@@ -128,14 +128,3 @@ python notebooks/build_notebook.py
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## Résumé CV (2-3 lignes)
-
-> **Assistant budgétaire & détection d'anomalies de dépenses** — Python,
-> scikit-learn, TF-IDF, Isolation Forest. Génération de transactions
-> synthétiques réalistes (libellés, saisonnalité, anomalies étiquetées),
-> **catégorisation NLP** des dépenses, modélisation du comportement normal par
-> utilisateur et **détection d'anomalies multivariée** (PR-AUC 0,91), avec
-> budgets dynamiques et flux d'alertes explicable.
